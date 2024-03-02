@@ -39,5 +39,5 @@ Giảng viên: PGS.TS Lê Đình Duy
 - Hoàn thành QT23: [CriticalThinking_SharkTank](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT23.md)
 - Hoàn thành QT31: [Reading Papers](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT31.md)
 - Hoàn thành QT32: [Reading Papers](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT32.md)
-- [xx] Đề cương nghiên cứu: [Bài thu hoạch cuối kỳ](https://github.com/phongpirik/CS2205.CH1501/blob/main/CS2205.CH1501.RM.FinalReport.CH2001012.pdf) 
+- [x] Đề cương nghiên cứu: [Bài thu hoạch cuối kỳ](https://github.com/phongpirik/CS2205.CH1501/blob/main/CS2205.CH1501.RM.FinalReport.CH2001012.pdf) 
 
